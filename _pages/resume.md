@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![Resume](AThibeault_Resume.pdf)
+{% resume "AThibeault_Resume.pdf" %}
