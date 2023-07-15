@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-{% resume "/files/AThibeault_Resume.pdf" %}
+![Resume](/images/AThibeault_Resume.png)
