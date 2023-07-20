@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Thibeault"
 title_separator          : "-"
 name                     : &name "Andrew Thibeault"
-description              : &description "Electrical Engineer (currently looking for positions in Bend, OR!)"
+description              : &description "Electrical Engineer (currently seeking a position as an electrical hardware engineer in Bend, OR!)"
 url                      : https://ahthibeault.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AHThibeault/ahthibeault.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrew Thibeault"
   avatar           : "profile.png"
-  bio              : "Electrical Engineer specialized in Power Electronics and Power Systems (currently looking for positions!)"
+  bio              : "Recent recipient of a Master's in Electrical, Computer, and Energy Engineering at CU Boulder, specialized in Power Electronics and Power Systems, and currently seeking a position as an electrical hardware engineer"
   location         : "Bend, Oregon"
   employer         :
   pubmed           : 
