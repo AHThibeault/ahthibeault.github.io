@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume PDF](/files/Athibeault_Resume.pdf)
+
 ![Resume](/images/AThibeault_Resume.png)
