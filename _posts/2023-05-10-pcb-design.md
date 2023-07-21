@@ -33,4 +33,4 @@ A 4-layer instrument droid board with a microcontroller and data acquisition sys
 
 ![board 4 layout](/images/brd4layout.png)
 
-![board 4 pcb](/images/brd3pcb.png)
+![board 4 pcb](/images/brd4pcb.png)
