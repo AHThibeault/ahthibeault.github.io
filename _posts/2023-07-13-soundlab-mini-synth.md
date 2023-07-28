@@ -9,4 +9,4 @@ This summer I am working on building the [Sound Lab Mini-Synth](http://musicfrom
 
 I'll be updating this page soon with Altium schematics and a layout. I hope to have this done by the end of August!
 
-![VCO schematic](/images/VCO.png)
+![VCO schematic](/images/vco.png)
