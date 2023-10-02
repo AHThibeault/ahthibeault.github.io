@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
+  - /resume
 ---
 
 {% include base_path %}
 
-[Download Resume PDF](/files/Athibeault_Resume.pdf)
+[Download CV PDF](/files/Athibeault_CV.pdf)
 
-![Resume](/images/AThibeault_Resume.png)
+![CVP1](/images/AThibeault_CVp1.png)
+![CVP2](/images/AThibeault_CVp2.png)
