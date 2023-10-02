@@ -9,5 +9,14 @@ Over the course of the growing season in 2022, I worked with a group of friends 
 
 ![garden1](/images/garden1.jpg)
 
-![garden3](/images/garden3.jpeg)
+![garden2](/images/garden3.jpeg)
 
+![garden3](/images/g1.jpeg)
+
+![garden4](/images/g2.jpeg)
+
+![garden5](/images/g3.jpeg)
+
+![garden6](/images/g4.jpeg)
+
+![garden7](/images/g5.jpg)
